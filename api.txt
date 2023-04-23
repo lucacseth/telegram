@@ -1,0 +1,5 @@
+api_id = '24181282'
+    api_hash = '9d0e6ee58a2b249643737d97e55c843a'
+
+    # Input the title of the specific chat you want to fetch bios from
+    target_chat_title = 'USC degens'
