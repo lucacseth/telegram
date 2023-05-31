@@ -9,8 +9,8 @@ async def main():
     seenUsers = []
 
     # Input your own API ID and API hash
-    api_id = '24181282'
-    api_hash = '9d0e6ee58a2b249643737d97e55c843a'
+    api_id = ''
+    api_hash = ''
 
     # Input the title of the specific chat you want to fetch bios from
     target_chat_title = 'EnterName'
